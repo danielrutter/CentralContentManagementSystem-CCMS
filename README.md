@@ -20,19 +20,27 @@ folder's and display it on index, home etc.
 DEFAULT FOLDER SYSTEM/STRUCTURE
 -------------------------------------------------
 /ccms/company/web_components/project/frontend
+-------------------------------------------------
 /ccms/company/web_components/project/middletier
+-------------------------------------------------
 /ccms/company/web_components/project/backend
 -------------------------------------------------
 /ccms/company/app_components/project/frontend
+-------------------------------------------------
 /ccms/company/app_components/project/middletier
+-------------------------------------------------
 /ccms/company/app_components/project/backend
 -------------------------------------------------
 /ccms/company/internal_tools/project/frontend
+-------------------------------------------------
 /ccms/company/internal_tools/project/middletier
+-------------------------------------------------
 /ccms/company/internal_tools/project/backend
 -------------------------------------------------
 /ccms/company/external_tools/project/frontend
+-------------------------------------------------
 /ccms/company/external_tools/project/middletier
+-------------------------------------------------
 /ccms/company/external_tools/project/backend
 -------------------------------------------------
 
@@ -40,9 +48,13 @@ DEFAULT FOLDER SYSTEM/STRUCTURE
 IDEAL FOLDER SYSTEM/STRUCTURE (FOR WEB COMPONENTS)
 -------------------------------------------------
 /ccms/company/web_components/project/frontend/html5
+-------------------------------------------------
 /ccms/company/web_components/project/frontend/css3
+-------------------------------------------------
 /ccms/company/web_components/project/frontend/js
+-------------------------------------------------
 /ccms/company/web_components/project/middletier
+-------------------------------------------------
 /ccms/company/web_components/project/backend
 -------------------------------------------------
 
